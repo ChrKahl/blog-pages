@@ -2,13 +2,15 @@
   "posts": [
     {
       "id": "pre-rendering",
-      "date": "2020-09-10",
       "title": "pre-rendering"
     },
     {
       "id": "ssg-ssr",
-      "date": "2020-09-10",
       "title": "ssg-ssr"
+    },
+    {
+      "id": "my-first-post",
+      "title": "my-first-post"
     }
   ]
 }
