@@ -1,0 +1,2 @@
+pre-rendering
+ssg-ssr
