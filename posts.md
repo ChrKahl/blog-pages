@@ -1,2 +1,0 @@
-pre-rendering
-ssg-ssr
