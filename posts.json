@@ -1,12 +1,12 @@
 {
   "posts": [
     {
-      "id": "pre-rendering",
+      "id": "1",
       "data": "2020-09-10",
       "title": "pre-rendering"
     },
     {
-      "id": "ssg-ssr",
+      "id": "2",
       "data": "2020-09-10",
       "title": "ssg-ssr"
     }
